@@ -10,4 +10,4 @@ export const RES_PER_PAGE = 10;
 export const KEY = '14d3700b-35c1-416e-8e29-ad6259b7c587';
 export const MODAL_CLOSE_SEC = 2.5;
 
-export const HOME = 'http://localhost:1234';
+export const HOME = 'https://forkify-lee.netlify.app/';
